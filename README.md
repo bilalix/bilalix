@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bilal</h1>
   <h3 align="center">
-    Full Stack Developer with 4+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and   programming languages mentioned below :point_down:
+    Full Stack Developer with 4+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and   programming languages, most of them are mentioned below :point_down:
     <br/>
     Click on the snake if you're interested to know more :wink:</h3>
 </div>
@@ -23,7 +23,7 @@
 - In my spare time I like to learn new technologies and explore what’s in the market :mag:
 - Enjoy a walk🚶‍♂️in the forest 🌳 or by the sea 🌊
 - I also like reading books 📚 and engage in interesting discussions 💬
-- Going for a swim and playing video games :swimmer:
+- Going for a swim 🏊 and playing video games 🎮
 - I've experimented with Photography :camera:, Graphic Design :art:, Roller Blading 🛼, Climbing (Indoor) 🧗, Ice Skating ⛸️, Hiking 🥾, Laser Game ⚡, Tree Climbing (Accrobranche) 🐒 I'm open to suggestions..
 - On my "to try" list: Camping ⛺, Karting 🏎️, Paintball 🔫, Roallercoasters (The real ones :roller_coaster:, not those I'm experiencing while debugging :bug:)
 <br><br>
