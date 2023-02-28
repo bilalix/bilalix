@@ -53,6 +53,12 @@
          src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
          alt="linkedin" height="30"/></a>
 </p>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/bilalix" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Buy_me_a%C2%A0coffee-%23F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+         alt="github" height="30"/></a>
+</p>
+
 
 ## <picture><img src = "https://user-images.githubusercontent.com/2496324/221722945-289b24df-501f-4ea6-941b-da436d28a823.gif" width = 30px></picture> **Skills**
 
