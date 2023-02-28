@@ -35,7 +35,7 @@
     <a href="https://www.linkedin.com/in/bilalelhoudaigui/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="linkedin" height="30"/></a>
-    <a href="https://www.youtube.com/@Bilalix" target="blank"><img align="center"
+    <a href="https://bilalelhoudaigui.com/" target="blank"><img align="center"
          src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
          alt="github" height="30"/></a>
     <a href="https://www.youtube.com/@Bilalix" target="blank"><img align="center"
