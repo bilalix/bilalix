@@ -92,9 +92,10 @@
    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23054020?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-- **Cloud Hosting**:
+- **Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4EA94B.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![VMs](https://img.shields.io/badge/VM-ED8B00.svg?style=for-the-badge&logo=server-fault&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23327FC7.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 - **Softwares and Tools**:
