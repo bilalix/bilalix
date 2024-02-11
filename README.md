@@ -41,17 +41,15 @@
     <a href="https://www.youtube.com/@Bilalix" target="blank"><img align="center"
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
          alt="youtube" height="30"/></a>
-</p>
-<p align="center">
     <a href="https://stackoverflow.com/users/4488332/bilal" target="blank"><img align="center"
          src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
          alt="github" height="30"/></a>
     <a href="https://www.goodreads.com/user/show/70328159-bilal-hikari" target="blank"><img align="center"
          src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"
          alt="github" height="30"/></a>
-    <a href="https://gitlab.com/bilalhd" target="blank"><img align="center"
+<!--     <a href="https://gitlab.com/bilalhd" target="blank"><img align="center"
          src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
-         alt="linkedin" height="30"/></a>
+         alt="linkedin" height="30"/></a> -->
 </p>
 <p align="center">
     <a href="https://www.buymeacoffee.com/bilalix" target="blank"><img align="center"
