@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bilal</h1>
+  <h1 align="center">Hi, I'm Bilal</h1>
   <h3 align="center">
-    Full Stack Developer with 4+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and   programming languages, most of them are mentioned below :point_down:
+    Full Stack Developer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
     <br/>
     Click on the snake if you're interested to know more :wink:</h3>
 </div>
