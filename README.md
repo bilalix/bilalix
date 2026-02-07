@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Bilal</h1>
   <h3 align="center">
-    Full Stack Developer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
+    Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
     <br/>
     Click on the snake if you're interested to know more :wink:</h3>
 </div>
@@ -24,20 +24,20 @@
 - Enjoy a walk🚶‍♂️in the forest 🌳 or by the sea 🌊
 - I also like reading books 📚 and engage in interesting discussions 💬
 - Going for a swim 🏊 and playing video games 🎮
-- I've experimented with Photography :camera:, Graphic Design :art:, Roller Blading 🛼, Climbing (Indoor) 🧗, Ice Skating ⛸️, Hiking 🥾, Laser Game ⚡, Tree Climbing (Accrobranche) 🐒 I'm open to suggestions..
-- On my "to try" list: Camping ⛺, Karting 🏎️, Paintball 🔫, Roallercoasters (The real ones :roller_coaster:, not those I'm experiencing while debugging :bug:)
+- I've experimented with Photography :camera:, Graphic Design :art:, Roller Blading 🛼, Climbing (Indoor) 🧗, Ice Skating ⛸️, Hiking 🥾, Laser Game ⚡, Tree Climbing (Accrobranche) 🐒 and Karting 🏎️; I'm open to suggestions..
+- On my "to try" list: Camping ⛺, Paintball 🔫, Roallercoasters (The real ones :roller_coaster:, not those I'm experiencing while debugging :bug:)
 <br><br>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/2496324/221722572-a7fac207-16a0-4cd8-bb67-addfa8e6925e.gif" width = 50px></picture> **Get in Touch**
 
 <p align="center">
     <br/>
-<!--     <a href="https://www.linkedin.com/in/bilalelhoudaigui/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/bilalelhoudaigui/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="linkedin" height="30"/></a> -->
-<!--     <a href="https://bilalelhoudaigui.com/" target="blank"><img align="center"
+         alt="linkedin" height="30"/></a>
+    <a href="https://bilalelhoudaigui.com/" target="blank"><img align="center"
          src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-         alt="github" height="30"/></a> -->
+         alt="github" height="30"/></a>
     <a href="https://www.youtube.com/@Bilalix" target="blank"><img align="center"
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
          alt="youtube" height="30"/></a>
