@@ -6,11 +6,11 @@
     Click on the snake if you're interested to know more :wink:</h3>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://bilalelhoudaigui.com/portfolio/">
   <img  src="https://user-images.githubusercontent.com/2496324/221721787-dfb27fd7-fe73-48f6-a821-a1dace436cbf.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 -----
 
