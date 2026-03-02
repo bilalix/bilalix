@@ -12,8 +12,6 @@
        alt="snake" /></a>
 </div> -->
 
------
-
 ## <picture><img src = "https://user-images.githubusercontent.com/2496324/221721890-41df7f4a-507c-4c61-82cc-e590864960f7.gif" width = 30px></picture>  **About me**
 
 <br>
