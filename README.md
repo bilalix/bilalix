@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Bilal</h1>
   <h3 align="center">
-    Full Stack Developer with 9 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
+    Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
     <br/>
     Click on the snake if you're interested in knowing more</h3>
 </div>
