@@ -3,14 +3,14 @@
   <h3 align="center">
     Full Stack Developer with 9 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
     <br/>
-    Click on the snake if you're interested in knowing more :wink:</h3>
+    Click on the snake if you're interested in knowing more</h3>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://bilalelhoudaigui.com/portfolio/">
   <img  src="https://user-images.githubusercontent.com/2496324/221721787-dfb27fd7-fe73-48f6-a821-a1dace436cbf.svg"
        alt="snake" /></a>
-</div> -->
+</div>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/2496324/221721890-41df7f4a-507c-4c61-82cc-e590864960f7.gif" width = 30px></picture>  **About me**
 
