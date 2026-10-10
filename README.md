@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center">Hi, I'm Bilal</h1>
   <h3 align="center">
-    Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
+    Full Stack Developer with 9 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, most of them are mentioned below :point_down:
     <br/>
-    Click on the snake if you're interested to know more :wink:</h3>
+    Click on the snake if you're interested in knowing more :wink:</h3>
 </div>
 
 <!-- <div align="center">
@@ -18,7 +18,7 @@
 
 - I'm known for being passionate about what I'm doing :heart_eyes:
 - Firm believer that Googling<sup>ChatGPTing :shrug:</sup> effectively is an extremely useful skill :monocle_face:
-- In my spare time I like to learn new technologies and explore what’s in the market :mag:
+- In my spare time, I like to learn new technologies and explore what's in the market :mag:
 - Enjoy a walk🚶‍♂️in the forest 🌳 or by the sea 🌊
 - I also like reading books 📚 and engage in interesting discussions 💬
 - Going for a swim 🏊 and playing video games 🎮
